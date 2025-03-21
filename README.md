@@ -3,7 +3,7 @@
 This is a proof-of-concept implementation of a 1D canonical Monte Carlo simulation with phase space shifting as described in:
 
 **Why gauge invariance applies to statistical mechanics**  
-*Johanna Müller, Florian Sammüller, and Matthias Schmidt, [J. Phys. A: Math. Theor. (to be published)](https://doi.org/10.1088/1751-8121/adbfe6) (2025); [arXiv:2409.14166](https://arxiv.org/abs/2409.14166).*
+*Johanna Müller, Florian Sammüller, and Matthias Schmidt, [J. Phys. A: Math. Theor. **58**, 125003](https://doi.org/10.1088/1751-8121/adbfe6) (2025); [arXiv:2409.14166](https://arxiv.org/abs/2409.14166).*
 
 See also:
 
